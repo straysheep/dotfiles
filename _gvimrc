@@ -1,0 +1,15 @@
+" ウィンドウの縦幅
+set lines=40
+" ウィンドウの横幅
+set columns=100
+" カラースキーム
+"colorscheme koehler
+"colorscheme molokai
+colorscheme wombat
+
+
+" ウインドウ透過レベル
+autocmd GUIEnter * set transparency=190
+
+  " Windows用
+  set guifont=Osaka-等幅:h10:cSHIFTJIS
